@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-mohit-1919
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning React.js
+- 🌱 Currently I'm a Student.
 - 💞️ I’m looking to collaborate on any project with my field of interest.
 - 📫 Connect with me on Linkedin
   
